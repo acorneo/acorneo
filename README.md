@@ -37,4 +37,76 @@
 <h2>📫 Feel free to reach out or explore my repositories! Let's build something awesome together. 🚀</h2>
 <h1>Some of my coding stats, I decided to start recording them.</h1>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 5.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 49 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌆 Daytime                9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌃 Evening                27 commits          ████████████░░░░░░░░░░░░░   47.37 % 
+🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   30 commits          █████████████░░░░░░░░░░░░   52.63 % 
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Sunday                   14 commits          ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Vue                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/acorneo/acorneo/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/12/2024 13:59:50 UTC
 <!--END_SECTION:waka-->
