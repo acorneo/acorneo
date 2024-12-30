@@ -7,16 +7,10 @@ on:
 
 jobs:
   update-readme:
+    name: Update ReadMe
     runs-on: ubuntu-latest  # Specifies the environment for the job
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2  # This checks out your code to run the action
-
-      - name: Wakatime Profile Stats
-        uses: anmol098/waka-readme-stats@v4  # This uses the Wakatime action to update stats
+      - uses: anmol098/waka-readme-stats@master
         with:
-          api_key: ${{ secrets.WAKATIME_API_KEY }}  # Uses the secret API Key
-          username: ${{ github.actor }}  # Uses your GitHub username
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Set the API key as an environment variable
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
