@@ -2,7 +2,7 @@ name: Wakatime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * * *'  # This schedules the action to run once a day at midnight
+    - cron: '0 * * * *'  # This schedules the action to run once a day at midnight
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
