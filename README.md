@@ -17,7 +17,7 @@
 <ul>
   <li>Programming languages</li>
   <ul>
-    <li>Solid knowledge:, Typescript, Javascript, C++</li>
+    <li>Solid knowledge: Python, Typescript, Javascript, C++</li>
     <li>Worked with: Java, Rust, Golang</li>
   </ul>
   <li>Web Development</li>
