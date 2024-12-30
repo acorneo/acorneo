@@ -35,3 +35,6 @@
 </ul>
 
 <h2>📫 Feel free to reach out or explore my repositories! Let's build something awesome together. 🚀</h2>
+<h1>Some of my coding stats, I decided to start recording them.</h1>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
