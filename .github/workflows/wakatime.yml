@@ -1,0 +1,22 @@
+name: Wakatime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * * *'  # This schedules the action to run once a day at midnight
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest  # Specifies the environment for the job
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2  # This checks out your code to run the action
+
+      - name: Wakatime Profile Stats
+        uses: wakatime/action@v1  # This uses the Wakatime action to update stats
+        with:
+          api_key: ${{ secrets.WAKATIME_API_KEY }}  # Uses the secret API Key
+          username: ${{ github.actor }}  # Uses your GitHub username
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Set the API key as an environment variable
