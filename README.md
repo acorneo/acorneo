@@ -1,1 +1,4 @@
-Doing cool stuff. Not interested in 'modern' web development. Competitive programming and Linux explorer. Reach me in Discord: ``acorneo42``
+developing for the sake of hackclub!!!
+
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=6939&api_domain=hackatime.hackclub.com&theme=shadow_red&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
